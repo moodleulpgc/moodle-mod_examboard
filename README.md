@@ -14,4 +14,4 @@ Only Board members assigned to review and assess some student's work can access 
 
 [GNU General Public License v3.0](https://github.com/moodleulpgc/moodle-mod_examboard/edit/main/LICENSE)
 
-(c) 2017 and afterwards Enrique Castro @ ULPGC
+&copy; 2017-present  Enrique Castro @ ULPGC
